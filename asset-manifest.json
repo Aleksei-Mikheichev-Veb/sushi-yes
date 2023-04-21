@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sushi-yes/static/css/main.31a61800.css",
-    "main.js": "/sushi-yes/static/js/main.b6938415.js",
+    "main.js": "/sushi-yes/static/js/main.16c0962c.js",
     "static/js/787.a580830e.chunk.js": "/sushi-yes/static/js/787.a580830e.chunk.js",
     "static/media/circe.eot": "/sushi-yes/static/media/circe.13bbfad0e7f851273f3c.eot",
     "static/media/circe.ttf": "/sushi-yes/static/media/circe.814e4dd4329ffdb6c9ed.ttf",
@@ -99,11 +99,11 @@
     "static/media/circe.woff": "/sushi-yes/static/media/circe.31d6cfe0d16ae931b73c.woff",
     "static/media/circe_bold.woff": "/sushi-yes/static/media/circe_bold.31d6cfe0d16ae931b73c.woff",
     "main.31a61800.css.map": "/sushi-yes/static/css/main.31a61800.css.map",
-    "main.b6938415.js.map": "/sushi-yes/static/js/main.b6938415.js.map",
+    "main.16c0962c.js.map": "/sushi-yes/static/js/main.16c0962c.js.map",
     "787.a580830e.chunk.js.map": "/sushi-yes/static/js/787.a580830e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31a61800.css",
-    "static/js/main.b6938415.js"
+    "static/js/main.16c0962c.js"
   ]
 }
